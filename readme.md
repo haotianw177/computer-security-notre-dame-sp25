@@ -1,8 +1,9 @@
 # DES decryption algorithm 
-This is an implentation of DES Decryption algorithm 
+This is an implementation of DES Decryption algorithm .
 
 Ciphertext in binary format: 	
 1100101011101101101000100110010101011111101101110011100001110011
+
 Key: “LOVECSND” in binary format:
 0100110001001111010101100100010101000011010100110100111001000100
 
