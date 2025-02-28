@@ -1,6 +1,6 @@
 # DES decryption algorithm 
+This is an implentation of DES Decryption algorithm 
 
-## Under electronic code book mode (ECB)
 Ciphertext in binary format: 	
 1100101011101101101000100110010101011111101101110011100001110011
 Key: “LOVECSND” in binary format:
